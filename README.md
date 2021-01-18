@@ -4,7 +4,7 @@
 Hello World Android app. When you click the button, it changes the color of the text
 
 ### App Walk-through
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://media.giphy.com/media/bixtVInMpWU42O7WHj/giphy.gif" width=200><br>
 
 
 ### Required User Stories
